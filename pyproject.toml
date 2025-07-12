@@ -9,6 +9,9 @@ python = "^3.10"
 Django = "^5.2.4"
 djangorestframework = "^3.16.0"
 python-dotenv = "^1.1.1"
+psycopg2-binary = "^2.9.10"
+pillow = "^11.3.0"
+black = "^25.1.0"
 
 [tool.poetry.dev-dependencies]
 
