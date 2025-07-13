@@ -50,3 +50,5 @@ python manage.py csu
 ```bash
 python manage.py runserver
 ```
+Сервер будет доступен по ссылке
+http://127.0.0.1:8000/
